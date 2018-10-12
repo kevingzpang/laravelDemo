@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tseat
 bb
 cc
@@ -5,3 +6,12 @@ cc
 b1
 b2
 b3
+=======
+tseat
+bb
+cc
+
+b1
+b2
+master add
+>>>>>>> branch 'master' of https://github.com/kevingzpang/laravelDemo.git
